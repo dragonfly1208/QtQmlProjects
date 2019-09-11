@@ -1,4 +1,2 @@
-# QtQmlProjects
-Qt Qml Projects
-
-some qml projects or qml test project
+qmlbook test project
+http://qmlbook.github.io
